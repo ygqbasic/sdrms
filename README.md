@@ -33,7 +33,7 @@ http://blog.csdn.net/lhtzbj12/article/details/78847482
 
 2. 安装本系统
 ```
-go get github.com/lhtzbj12/sdrms
+go get github.com/ygqbasic/sdrms
 ```
 3. 将根目录下的sdrms.sql导入mysql
 
